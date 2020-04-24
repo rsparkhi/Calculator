@@ -13,4 +13,3 @@ class CalculatorApp(App):
         return CalGridLayout()
 
 CalculatorApp().run()
-print("Ritesh")
